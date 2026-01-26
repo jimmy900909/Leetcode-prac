@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jimmy900909/Leetcode-prac/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jimmy900909/Leetcode-prac/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jimmy900909/Leetcode-prac/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
