@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jimmy900909/Leetcode-prac/tree/master/0001-two-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jimmy900909/Leetcode-prac/tree/master/0001-two-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
