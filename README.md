@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jimmy900909/Leetcode-prac/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jimmy900909/Leetcode-prac/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jimmy900909/Leetcode-prac/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jimmy900909/Leetcode-prac/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
