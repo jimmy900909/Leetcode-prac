@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jimmy900909/Leetcode-prac/tree/master/0001-two-sum) |
+| [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jimmy900909/Leetcode-prac/tree/master/0001-two-sum) |
+| [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jimmy900909/Leetcode-prac/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
 <!---LeetCode Topics End-->
