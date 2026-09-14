@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jimmy900909/Leetcode-prac/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jimmy900909/Leetcode-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2502-design-memory-allocator](https://github.com/jimmy900909/Leetcode-prac/tree/master/2502-design-memory-allocator) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jimmy900909/Leetcode-prac/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jimmy900909/Leetcode-prac/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jimmy900909/Leetcode-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jimmy900909/Leetcode-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
